@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sequence
+comment0.text=\r\n\ This\ class\ finds\ a\ repeated\ sequence\ in\ a\ given\ string\r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (9/20/2021)\r\n
+comment1.params=dna\ sub
+comment1.target=Sequence(java.lang.String,\ java.lang.String)
+numComments=2

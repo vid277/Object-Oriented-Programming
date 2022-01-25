@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Numbers
+comment0.text=\r\n\ Working\ with\ arrays\r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (9/27/2021)\r\n
+comment1.params=
+comment1.target=Numbers()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Numbers\r\n
+comment2.params=
+comment2.target=void\ sum()
+comment3.params=k
+comment3.target=void\ multiply(int)
+comment4.params=
+comment4.target=void\ max()
+comment5.params=
+comment5.target=double\ percentage()
+comment6.params=k
+comment6.target=void\ trial(int)
+comment7.params=s1
+comment7.target=void\ sort(java.lang.String)
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Starter
+comment0.text=\r\n\ This\ class\ writes\ to\ a\ specified\ file.\r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (10/21/2021)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

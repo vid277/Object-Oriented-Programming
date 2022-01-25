@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DNA
+comment0.text=\r\n\ This\ class\ would\ figure\ out\ who\ the\ DNA\ would\ belong\ to\r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (9/21/2021)\r\n
+comment1.params=name\ a1\ n1\ a2\ n2\ a3\ n3
+comment1.target=DNA(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DNA\r\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NameRecord
+comment0.text=\r\n\ Reads\ and\ stores\ these\ names.\r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (11/18/2021)\r\n
+comment1.params=ln
+comment1.target=NameRecord(java.lang.String)
+comment1.text=Pass\ an\ arguement\ with\ the\ line\r\n\ \ \ \ \ \ \ Split\ a\ line\ by\ spaces\ \r\n\ \ \ \ \ \ \ Each\ word\ is\ added\ to\ a\ list\ \r\n\ \ \ \ \ \ \ Each\ of\ the\ names\ that\ correspond\ to\ each\ name\ is\ added\ a\ list\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.util.ArrayList\ getData()
+comment4.params=
+comment4.target=int[]\ getList()
+numComments=5

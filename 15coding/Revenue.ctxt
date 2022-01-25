@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Revenue
+comment0.text=\r\n\ Calculates\ revenue\ based\ on\ unit\ price.\r\n\r\n\ @Vidyoot\ Senthilvenkatesh\ (your\ name)\r\n\ @1\ (9/10/2021)\r\n
+comment1.params=
+comment1.target=Revenue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Revenue\r\n
+comment2.params=quantity\ unitprice
+comment2.target=void\ calculateRevenue(int,\ int)
+comment3.params=
+comment3.target=void\ loop()
+numComments=4

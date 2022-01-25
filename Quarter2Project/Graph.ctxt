@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Graph
+comment0.text=\r\n\ This\ is\ the\ heater\ method\ which\ increases\ and\ decreases\ the\ temperature.\ \r\n\ The\ temperature\ is\ also\ visualized\ on\ the\ gauge\ to\ the\ right.\ \r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (10/7/21)\r\n
+comment1.params=name\ decades
+comment1.target=Graph(java.lang.String,\ int[])
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=void\ plot()
+numComments=4

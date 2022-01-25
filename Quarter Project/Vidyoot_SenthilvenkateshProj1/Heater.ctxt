@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Heater
+comment0.text=\r\n\ This\ is\ the\ heater\ method\ which\ increases\ and\ decreases\ the\ temperature.\ \r\n\ The\ temperature\ is\ also\ visualized\ on\ the\ gauge\ to\ the\ right.\ \r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (10/7/21)\r\n
+comment1.params=
+comment1.target=Heater()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Heater.\ \r\n\ A\ 500\ x\ 500\ canvas\ is\ created\ and\ the\ temperature\ is\ initally\ set\ to\ 50.\r\n
+comment2.params=
+comment2.target=void\ showHeater()
+comment3.params=newInc
+comment3.target=void\ setIncrement(int)
+comment4.params=
+comment4.target=void\ setgauge()
+comment5.params=
+comment5.target=void\ makeWarmer()
+comment6.params=
+comment6.target=void\ makeCooler()
+comment7.params=
+comment7.target=java.lang.String\ getTemp()
+numComments=8

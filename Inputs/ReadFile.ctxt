@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReadFile
+comment0.text=\r\n\ This\ class\ reads\ an\ input\ text\ file\r\n\r\n\ @author\ (Vidyoot\ Senthilvenkatesh)\r\n\ @version\ (10/18/21)\r\n
+comment1.params=a
+comment1.target=ReadFile(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ReadInput\r\n
+numComments=2
